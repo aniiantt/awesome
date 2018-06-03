@@ -13,3 +13,8 @@
 #### 手绘风格 web 组件 [wired-elements](https://github.com/wiredjs/wired-elements)
 
 #### 分享你的代码 [carbon](https://github.com/dawnlabs/carbon)
+
+#### 测试框架 [jest](https://github.com/facebook/jest)
+
+#### 后端脚手架 [rollup](https://github.com/rollup/rollup)
+)
